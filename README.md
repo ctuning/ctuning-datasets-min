@@ -1,2 +1,4 @@
-# ctuning-datasets-min
-cTuning min datasets for shared benchmarks
+cm-ctuning-code-source-dataset-min
+==================================
+
+Collective Mind Repository (cTuning; Program data sets)
