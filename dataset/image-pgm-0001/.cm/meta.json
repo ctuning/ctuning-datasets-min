@@ -1,4 +1,9 @@
 {
+  "tags": [
+    "dataset", 
+    "image", 
+    "pgm"
+  ], 
   "cm_classes_uoa": [
     "62a455f8c8042f90", 
     "c1e2a3e075864c4e", 
@@ -13,9 +18,6 @@
     "width": "600", 
     "type": "image"
   }, 
-  "dataset_files": [
-    "data.pgm"
-  ], 
   "cm_dissemination": {
     "publications": [
       "0c44d9a2db3de3c9", 
@@ -29,5 +31,8 @@
       "a43178b20901ba15", 
       "dabab2e9ff26c745"
     ]
-  }
+  }, 
+  "dataset_files": [
+    "data.pgm"
+  ]
 }

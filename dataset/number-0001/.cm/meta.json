@@ -1,5 +1,10 @@
 {
   "cm_archive": "", 
+  "tags": [
+    "dataset", 
+    "number", 
+    "cmd"
+  ], 
   "cm_classes_uoa": [
     "62a455f8c8042f90", 
     "bcb22586a7486086", 

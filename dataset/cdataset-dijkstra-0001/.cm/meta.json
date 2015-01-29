@@ -21,5 +21,9 @@
       "a43178b20901ba15", 
       "dabab2e9ff26c745"
     ]
-  }
+  }, 
+  "tags": [
+    "dataset", 
+    "dijkstra"
+  ]
 }
