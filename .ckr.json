@@ -1,6 +1,6 @@
 {
   "data_uid": "4ffcc1307484d840", 
-  "data_name": "ctuning-datasets-min", 
+  "data_name": "cTuning datasets (min)", 
   "dict": {
     "url": "https://github.com/ctuning/ctuning-datasets-min.git", 
     "shared": "git", 
