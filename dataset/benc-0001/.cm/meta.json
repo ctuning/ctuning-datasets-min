@@ -1,30 +1,30 @@
 {
   "cm_classes_uoa": [
-    "62a455f8c8042f90", 
-    "45808c9af66308b0", 
-    "bd3751b04e340bfb", 
+    "62a455f8c8042f90",
+    "45808c9af66308b0",
+    "bd3751b04e340bfb",
     "1a972e86f4b72b84"
-  ], 
-  "dataset_files": [
-    "data.benc"
-  ], 
+  ],
   "cm_dissemination": {
     "publications": [
-      "0c44d9a2db3de3c9", 
-      "404c91542f38bd58", 
-      "24fbaabd00976640", 
-      "2df284a66bdf5468", 
-      "530e5f456ea259de", 
-      "77927d4cd49b4dc6", 
-      "84bd982340c913b0", 
-      "a31e374796869125", 
-      "a43178b20901ba15", 
+      "0c44d9a2db3de3c9",
+      "404c91542f38bd58",
+      "24fbaabd00976640",
+      "2df284a66bdf5468",
+      "530e5f456ea259de",
+      "77927d4cd49b4dc6",
+      "84bd982340c913b0",
+      "a31e374796869125",
+      "a43178b20901ba15",
       "dabab2e9ff26c745"
     ]
-  }, 
+  },
+  "dataset_files": [
+    "data.benc"
+  ],
   "tags": [
-    "dataset", 
-    "crypto", 
+    "dataset",
+    "crypto",
     "benc"
   ]
 }

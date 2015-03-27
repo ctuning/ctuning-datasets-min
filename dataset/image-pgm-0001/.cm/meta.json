@@ -1,38 +1,38 @@
 {
-  "tags": [
-    "dataset", 
-    "image", 
-    "pgm"
-  ], 
   "cm_classes_uoa": [
-    "62a455f8c8042f90", 
-    "c1e2a3e075864c4e", 
-    "4075b327e77c929f", 
+    "62a455f8c8042f90",
+    "c1e2a3e075864c4e",
+    "4075b327e77c929f",
     "1a972e86f4b72b84"
-  ], 
-  "cm_properties": {
-    "gray": "yes", 
-    "color_depth": "8", 
-    "image_type": "computer generated landscape", 
-    "height": "450", 
-    "width": "600", 
-    "type": "image"
-  }, 
+  ],
   "cm_dissemination": {
     "publications": [
-      "0c44d9a2db3de3c9", 
-      "404c91542f38bd58", 
-      "24fbaabd00976640", 
-      "2df284a66bdf5468", 
-      "530e5f456ea259de", 
-      "77927d4cd49b4dc6", 
-      "84bd982340c913b0", 
-      "a31e374796869125", 
-      "a43178b20901ba15", 
+      "0c44d9a2db3de3c9",
+      "404c91542f38bd58",
+      "24fbaabd00976640",
+      "2df284a66bdf5468",
+      "530e5f456ea259de",
+      "77927d4cd49b4dc6",
+      "84bd982340c913b0",
+      "a31e374796869125",
+      "a43178b20901ba15",
       "dabab2e9ff26c745"
     ]
-  }, 
+  },
+  "cm_properties": {
+    "color_depth": "8",
+    "gray": "yes",
+    "height": "450",
+    "image_type": "computer generated landscape",
+    "type": "image",
+    "width": "600"
+  },
   "dataset_files": [
     "data.pgm"
+  ],
+  "tags": [
+    "dataset",
+    "image",
+    "pgm"
   ]
 }
