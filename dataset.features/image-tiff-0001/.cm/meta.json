@@ -1,0 +1,22 @@
+{
+  "dataset_uid": "e137ba3f763f49e6", 
+  "dataset_uoa": "image-tiff-0001", 
+  "features": {
+    "compression": "tiff_lzw", 
+    "format": "TIFF", 
+    "height": 208, 
+    "mode": "RGB", 
+    "raw_info": {
+      "compression": "tiff_lzw", 
+      "dpi": [
+        72, 
+        72
+      ]
+    }, 
+    "total_size": 55260, 
+    "width": 162, 
+    "xdpi": 72, 
+    "ydpi": 72
+  }, 
+  "tags": ""
+}

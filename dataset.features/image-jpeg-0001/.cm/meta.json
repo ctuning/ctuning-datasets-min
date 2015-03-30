@@ -1,0 +1,31 @@
+{
+  "dataset_uid": "1aaaa23c44e588f9", 
+  "dataset_uoa": "image-jpeg-0001", 
+  "features": {
+    "compression": "", 
+    "format": "JPEG", 
+    "height": 208, 
+    "mode": "RGB", 
+    "raw_info": {
+      "dpi": [
+        72, 
+        72
+      ], 
+      "jfif": 257, 
+      "jfif_density": [
+        72, 
+        72
+      ], 
+      "jfif_unit": 1, 
+      "jfif_version": [
+        1, 
+        1
+      ]
+    }, 
+    "total_size": 8689, 
+    "width": 162, 
+    "xdpi": 72, 
+    "ydpi": 72
+  }, 
+  "tags": ""
+}
