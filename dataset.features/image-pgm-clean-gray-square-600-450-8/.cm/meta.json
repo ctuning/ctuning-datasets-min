@@ -1,0 +1,18 @@
+{
+  "dataset_uid": "c5a378cde441bbb7",
+  "dataset_uoa": "image-pgm-clean-gray-square-600-450-8",
+  "features": {
+    "compression": "",
+    "format": "PPM",
+    "height": 450,
+    "mode": "L",
+    "raw_info": {},
+    "total_size": 270054,
+    "width": 600
+  },
+  "tags": [
+    "dataset",
+    "image",
+    "pgm"
+  ]
+}

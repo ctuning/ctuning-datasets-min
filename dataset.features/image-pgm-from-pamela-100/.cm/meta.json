@@ -1,0 +1,18 @@
+{
+  "dataset_uid": "d11ad4b49f2b9f45",
+  "dataset_uoa": "image-pgm-from-pamela-100",
+  "features": {
+    "compression": "",
+    "format": "PPM",
+    "height": 480,
+    "mode": "L",
+    "raw_info": {},
+    "total_size": 307254,
+    "width": 640
+  },
+  "tags": [
+    "dataset",
+    "image",
+    "pgm"
+  ]
+}
