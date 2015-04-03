@@ -4,5 +4,9 @@
   "features": {
     "total_size": 485664
   }, 
-  "tags": ""
+  "tags": [
+    "dataset", 
+    "archiver", 
+    "bzip2"
+  ]
 }

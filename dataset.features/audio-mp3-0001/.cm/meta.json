@@ -4,5 +4,9 @@
   "features": {
     "total_size": 28249
   }, 
-  "tags": ""
+  "tags": [
+    "dataset", 
+    "audio", 
+    "mp3"
+  ]
 }

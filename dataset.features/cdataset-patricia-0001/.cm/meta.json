@@ -4,5 +4,8 @@
   "features": {
     "total_size": 855
   }, 
-  "tags": ""
+  "tags": [
+    "dataset", 
+    "patricia"
+  ]
 }

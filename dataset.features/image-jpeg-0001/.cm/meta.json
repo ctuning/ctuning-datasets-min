@@ -27,5 +27,10 @@
     "xdpi": 72, 
     "ydpi": 72
   }, 
-  "tags": ""
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg"
+  ]
 }

@@ -4,5 +4,9 @@
   "features": {
     "total_size": 4059
   }, 
-  "tags": ""
+  "tags": [
+    "dataset", 
+    "doc", 
+    "txt"
+  ]
 }

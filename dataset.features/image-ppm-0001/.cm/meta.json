@@ -10,5 +10,9 @@
     "total_size": 101103, 
     "width": 162
   }, 
-  "tags": ""
+  "tags": [
+    "dataset", 
+    "image", 
+    "ppm"
+  ]
 }

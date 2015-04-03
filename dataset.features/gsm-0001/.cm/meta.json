@@ -4,5 +4,8 @@
   "features": {
     "total_size": 15939
   }, 
-  "tags": ""
+  "tags": [
+    "dataset", 
+    "gsm"
+  ]
 }
