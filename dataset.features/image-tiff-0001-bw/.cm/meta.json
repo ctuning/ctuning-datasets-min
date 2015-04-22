@@ -1,28 +1,28 @@
 {
-  "dataset_uid": "441c5c4df2a5744d", 
-  "dataset_uoa": "image-tiff-0001-bw", 
+  "dataset_uid": "441c5c4df2a5744d",
+  "dataset_uoa": "image-tiff-0001-bw",
   "features": {
-    "compression": "tiff_lzw", 
-    "format": "TIFF", 
-    "height": 208, 
-    "mode": "L", 
+    "compression": "tiff_lzw",
+    "format": "TIFF",
+    "height": 208,
+    "mode": "L",
     "raw_info": {
-      "compression": "tiff_lzw", 
+      "compression": "tiff_lzw",
       "dpi": [
-        72, 
+        72,
         72
       ]
-    }, 
-    "total_size": 29940, 
-    "width": 162, 
-    "xdpi": 72, 
+    },
+    "total_size": 29940,
+    "width": 162,
+    "xdpi": 72,
     "ydpi": 72
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "image", 
-    "tiff", 
-    "tif", 
+    "dataset",
+    "image",
+    "tiff",
+    "tif",
     "bw"
   ]
 }

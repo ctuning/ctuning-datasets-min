@@ -1,12 +1,12 @@
 {
-  "dataset_uid": "c98632b234861fd0", 
-  "dataset_uoa": "bzip2-0001", 
+  "dataset_uid": "c98632b234861fd0",
+  "dataset_uoa": "bzip2-0001",
   "features": {
     "total_size": 485664
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "archiver", 
+    "dataset",
+    "archiver",
     "bzip2"
   ]
 }

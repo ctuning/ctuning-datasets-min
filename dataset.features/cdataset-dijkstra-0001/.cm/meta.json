@@ -1,11 +1,11 @@
 {
-  "dataset_uid": "e8248b4b49428219", 
-  "dataset_uoa": "cdataset-dijkstra-0001", 
+  "dataset_uid": "e8248b4b49428219",
+  "dataset_uoa": "cdataset-dijkstra-0001",
   "features": {
     "total_size": 59
-  }, 
+  },
   "tags": [
-    "dataset", 
+    "dataset",
     "dijkstra"
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "dataset_uid": "7fe8843ad42eab68", 
-  "dataset_uoa": "enc-0001", 
+  "dataset_uid": "7fe8843ad42eab68",
+  "dataset_uoa": "enc-0001",
   "features": {
     "total_size": 3984
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "crypto", 
+    "dataset",
+    "crypto",
     "enc"
   ]
 }

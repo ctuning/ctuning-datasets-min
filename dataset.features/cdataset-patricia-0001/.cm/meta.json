@@ -1,11 +1,11 @@
 {
-  "dataset_uid": "fa70cd46b4862fc2", 
-  "dataset_uoa": "cdataset-patricia-0001", 
+  "dataset_uid": "fa70cd46b4862fc2",
+  "dataset_uoa": "cdataset-patricia-0001",
   "features": {
     "total_size": 855
-  }, 
+  },
   "tags": [
-    "dataset", 
+    "dataset",
     "patricia"
   ]
 }

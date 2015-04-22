@@ -1,18 +1,18 @@
 {
-  "dataset_uid": "b2130844c38e4a56", 
-  "dataset_uoa": "image-pgm-0001", 
+  "dataset_uid": "b2130844c38e4a56",
+  "dataset_uoa": "image-pgm-0001",
   "features": {
-    "compression": "", 
-    "format": "PPM", 
-    "height": 450, 
-    "mode": "L", 
-    "raw_info": {}, 
-    "total_size": 270015, 
+    "compression": "",
+    "format": "PPM",
+    "height": 450,
+    "mode": "L",
+    "raw_info": {},
+    "total_size": 270015,
     "width": 600
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "image", 
+    "dataset",
+    "image",
     "pgm"
   ]
 }

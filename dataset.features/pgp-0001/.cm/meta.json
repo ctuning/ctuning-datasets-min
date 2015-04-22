@@ -1,12 +1,12 @@
 {
-  "dataset_uid": "89f654ca795f0ca7", 
-  "dataset_uoa": "pgp-0001", 
+  "dataset_uid": "89f654ca795f0ca7",
+  "dataset_uoa": "pgp-0001",
   "features": {
     "total_size": 2071
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "crypto", 
+    "dataset",
+    "crypto",
     "pgp"
   ]
 }

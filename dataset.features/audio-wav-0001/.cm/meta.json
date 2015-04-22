@@ -1,12 +1,12 @@
 {
-  "dataset_uid": "3611ef3f4f4daa2f", 
-  "dataset_uoa": "audio-wav-0001", 
+  "dataset_uid": "3611ef3f4f4daa2f",
+  "dataset_uoa": "audio-wav-0001",
   "features": {
     "total_size": 311096
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "audio", 
+    "dataset",
+    "audio",
     "wav"
   ]
 }

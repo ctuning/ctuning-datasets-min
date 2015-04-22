@@ -1,18 +1,18 @@
 {
-  "dataset_uid": "8b31cbfedb4bac8b", 
-  "dataset_uoa": "image-ppm-0001", 
+  "dataset_uid": "8b31cbfedb4bac8b",
+  "dataset_uoa": "image-ppm-0001",
   "features": {
-    "compression": "", 
-    "format": "PPM", 
-    "height": 208, 
-    "mode": "RGB", 
-    "raw_info": {}, 
-    "total_size": 101103, 
+    "compression": "",
+    "format": "PPM",
+    "height": 208,
+    "mode": "RGB",
+    "raw_info": {},
+    "total_size": 101103,
     "width": 162
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "image", 
+    "dataset",
+    "image",
     "ppm"
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "dataset_uid": "4da7a3315bbecc00", 
-  "dataset_uoa": "cdataset-qsort-0001", 
+  "dataset_uid": "4da7a3315bbecc00",
+  "dataset_uoa": "cdataset-qsort-0001",
   "features": {
     "total_size": 1072593
-  }, 
+  },
   "tags": [
-    "dataset", 
-    "sorting", 
+    "dataset",
+    "sorting",
     "qsort"
   ]
 }
