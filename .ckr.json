@@ -8,5 +8,5 @@
   }, 
   "data_alias": "ctuning-datasets-min", 
   "data_uoa": "ctuning-datasets-min",
-  "repo_deps":["ck-autotuning", "ctuning-programs"]
+  "repo_deps":[{"repo_uoa":"ck-autotuning"}, {"repo_uoa":"ctuning-programs"}]
 }
