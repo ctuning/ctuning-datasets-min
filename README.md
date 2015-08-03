@@ -27,6 +27,7 @@ Authors
 =======
 
 * Grigori Fursin, cTuning foundation (France) / dividiti (UK)
+* Various authors of shared programs (see individual entries)
 
 Installation
 ============
