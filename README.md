@@ -1,8 +1,8 @@
 Minimal data sets used for autotuning and co-design in computer engineering
 ===========================================================================
 
-Various public data sets for public bechmarks and kernels in CK format used 
-in our research on universal and multi-objective autotuning/and crowd-tuning. 
+Various public data sets for public bechmarks and kernels used
+in our research on universal and multi-objective autotuning/crowd-tuning.
 It is possible to reproduce and extend some techniques from our recent papers:
 
 * http://arxiv.org/abs/1506.06256
