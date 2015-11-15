@@ -43,11 +43,25 @@ List of other CK data set repositories shared as zip
 
 It is possible to share CK repositories as zip archives (useful to share artifacts along with publications and add them as supplementary material for ACM Digital Library, for example). Such repositories can be installed via
 
- $ ck add repo:[repo_name] --zip=[zip archive name or full URL] --quiet
+> ck add repo:[repo_name] --zip=[zip archive name or full URL] --quiet
 
 We shared multiple repositories with thousands of data sets for our shared benchmarks via Google Drive:
 
 * https://drive.google.com/folderview?id=0B-wXENVfIO82dzYwaUNIVElxaGc&usp=sharing 
+
+For example, you can download ckr-ctuning-datasets.zip 
+(or other and much larger datasets ckr-usb-ctuning-dataset-* from our PLDI paper).
+
+Register it with CK simply via:
+
+> ck add repo:ctuning-datasets --zip=ckr-ctuning-datasets.zip --quiet
+
+Now, when you run shared cTuning benchmarks (programs), 
+you will automatically have an extended choice of data sets.
+
+If you want to compile and run our benchmarks on Android-based mobile phones,
+you need to download and register with CK Android NDK as described here:
+* https://github.com/ctuning/ck/wiki/Getting_started_guide_tools
 
 List of other CK data set repositories shared via BitTorrent
 ============================================================
@@ -55,4 +69,3 @@ List of other CK data set repositories shared via BitTorrent
 We share some large CK repositories in zip via BitTorrent to optimize sharing (upload and download) of such repositories across multiple users. We use the following file name convention for such repositories: ckr-<repo></repo>-YYYYMMDD.zip.
 
 * ckr-32332f6412da1be1-20150803.zip (~287Mb) - Data sets (MiDatasets and cDatasets) from our past R&D to crowdsource autotuning and benchmarking (crowd-tuning and crowd-benchmarking). Get torrent here: https://github.com/ctuning/ck-guide-images/blob/master/ckr-32332f6412da1be1-20150804.zip.torrent?raw=true
-
