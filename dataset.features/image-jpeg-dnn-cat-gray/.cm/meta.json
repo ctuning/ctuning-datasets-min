@@ -1,0 +1,39 @@
+{
+  "dataset_uid": "b6edb4314645efa0", 
+  "dataset_uoa": "image-jpeg-dnn-cat-gray", 
+  "features": {
+    "compression": "", 
+    "format": "JPEG", 
+    "height": 360, 
+    "mode": "L", 
+    "raw_info": {
+      "dpi": [
+        72, 
+        72
+      ], 
+      "exif": "Exif\u0000\u0000II*\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", 
+      "jfif": 257, 
+      "jfif_density": [
+        72, 
+        72
+      ], 
+      "jfif_unit": 1, 
+      "jfif_version": [
+        1, 
+        1
+      ]
+    }, 
+    "total_size": 92726, 
+    "width": 480, 
+    "xdpi": 72, 
+    "ydpi": 72
+  }, 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "small", 
+    "dnn"
+  ]
+}

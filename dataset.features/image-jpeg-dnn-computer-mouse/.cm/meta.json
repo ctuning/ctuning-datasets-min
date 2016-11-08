@@ -1,0 +1,19 @@
+{
+  "dataset_uid": "04df4936ba03c285", 
+  "dataset_uoa": "image-jpeg-dnn-computer-mouse", 
+  "features": {
+    "compression": "", 
+    "format": "JPEG", 
+    "height": 3024, 
+    "mode": "RGB", 
+    "total_size": 7519011, 
+    "width": 4032
+  }, 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "dnn"
+  ]
+}

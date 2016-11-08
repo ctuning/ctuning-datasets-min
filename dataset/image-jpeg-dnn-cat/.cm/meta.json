@@ -1,0 +1,13 @@
+{
+  "dataset_files": [
+    "cat.jpg"
+  ], 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "small",
+    "dnn"
+  ]
+}

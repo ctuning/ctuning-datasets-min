@@ -1,0 +1,38 @@
+{
+  "dataset_uid": "ebd96e7048ba3f7f", 
+  "dataset_uoa": "image-jpeg-dnn-fish-bike", 
+  "features": {
+    "compression": "", 
+    "format": "JPEG", 
+    "height": 323, 
+    "mode": "RGB", 
+    "raw_info": {
+      "dpi": [
+        100, 
+        100
+      ], 
+      "jfif": 257, 
+      "jfif_density": [
+        100, 
+        100
+      ], 
+      "jfif_unit": 1, 
+      "jfif_version": [
+        1, 
+        1
+      ]
+    }, 
+    "total_size": 47638, 
+    "width": 481, 
+    "xdpi": 100, 
+    "ydpi": 100
+  }, 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "small", 
+    "dnn"
+  ]
+}

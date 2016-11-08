@@ -1,0 +1,25 @@
+{
+  "dataset_uid": "e496fdf046e6ac13", 
+  "dataset_uoa": "image-jpeg-dnn-cat", 
+  "features": {
+    "compression": "", 
+    "format": "JPEG", 
+    "height": 360, 
+    "mode": "RGB", 
+    "raw_info": {
+      "adobe": 100, 
+      "adobe_transform": 100, 
+      "exif": "Exif\u0000\u0000II*\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    }, 
+    "total_size": 140391, 
+    "width": 480
+  }, 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "small", 
+    "dnn"
+  ]
+}

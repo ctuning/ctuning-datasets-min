@@ -1,0 +1,13 @@
+{
+  "dataset_files": [
+    "fish-bike.jpg"
+  ], 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "small",
+    "dnn"
+  ]
+}
