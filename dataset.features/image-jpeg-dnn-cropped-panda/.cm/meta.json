@@ -1,0 +1,32 @@
+{
+  "dataset_uid": "0a4f26aa98034fd2", 
+  "dataset_uoa": "image-jpeg-dnn-cropped-panda", 
+  "features": {
+    "compression": "", 
+    "format": "JPEG", 
+    "height": 100, 
+    "mode": "RGB", 
+    "raw_info": {
+      "jfif": 257, 
+      "jfif_density": [
+        1, 
+        1
+      ], 
+      "jfif_unit": 0, 
+      "jfif_version": [
+        1, 
+        1
+      ]
+    }, 
+    "total_size": 2683, 
+    "width": 100
+  }, 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "small", 
+    "dnn"
+  ]
+}
