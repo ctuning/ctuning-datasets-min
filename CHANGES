@@ -1,1 +1,3 @@
 * 2016.11.08 - added standard datasets to demo, crowd-benchmark and crowd-tune Caffe and other DNN frameworks
+             - added cropped_panda.jpg used in TensorFlow demo image classification using ImageNet
+

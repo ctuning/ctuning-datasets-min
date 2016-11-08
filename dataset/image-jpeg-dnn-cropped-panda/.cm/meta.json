@@ -1,0 +1,13 @@
+{
+  "dataset_files": [
+    "cropped_panda.jpg"
+  ], 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "small",
+    "dnn"
+  ]
+}
