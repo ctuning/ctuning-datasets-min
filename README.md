@@ -1,6 +1,9 @@
 Open data sets with JSON meta for collaborative and reproducible computer systems' research
 ===========================================================================================
 
+[![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-powered-by-ck.png)](http://cKnowledge.org)
+[![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-validated-by-the-community-simple.png)](http://cTuning.org)
+
 These are various public data sets for public bechmarks and kernels used
 in our research on universal and multi-objective autotuning/crowd-tuning
 in the [open Collective Knowledge format](http://cKnowledge.org):
@@ -111,5 +114,3 @@ If you have problems, questions or suggestions, do not hesitate to get in touch
 via the following mailing lists:
 * https://groups.google.com/forum/#!forum/collective-knowledge
 * https://groups.google.com/forum/#!forum/ctuning-discussions
-
-![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-validated-by-the-community-simple.png)
