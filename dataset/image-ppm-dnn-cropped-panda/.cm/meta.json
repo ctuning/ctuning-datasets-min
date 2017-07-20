@@ -1,0 +1,15 @@
+{
+  "dataset_files": [
+    "cropped_panda.ppm"
+  ],
+  "tags": [
+    "dataset",
+    "image",
+    "ppm",
+    "small",
+    "dnn",
+    "panda",
+    "227x227",
+    "227"
+  ]
+}
