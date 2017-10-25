@@ -1,0 +1,13 @@
+{
+  "dataset_files": [
+    "surfers.jpg"
+  ], 
+  "tags": [
+    "dataset", 
+    "image", 
+    "jpeg", 
+    "jpg", 
+    "dnn",
+    "multibox"
+  ]
+}
