@@ -4,11 +4,6 @@
   "data_uid": "4ffcc1307484d840", 
   "data_uoa": "ctuning-datasets-min", 
   "dict": {
-    "repo_deps": [
-      {
-        "repo_uoa": "ctuning-programs"
-      }
-    ], 
     "url": "https://github.com/ctuning/ctuning-datasets-min", 
     "shared": "git"
   }
