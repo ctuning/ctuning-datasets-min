@@ -28,8 +28,7 @@
     "width": "600"
   }, 
   "dataset_files": [
-    "data.pgm",
-    "data1.pgm"
+    "data.pgm"
   ], 
   "tags": [
     "dataset", 
