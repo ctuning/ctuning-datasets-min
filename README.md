@@ -1,6 +1,8 @@
 Open data sets with JSON meta for collaborative and reproducible computer systems' research
 ===========================================================================================
 
+**All CK components for AI and ML are now collected in [one repository](https://github.com/ctuning/ai)!**
+
 [![compatibility](https://github.com/ctuning/ck-guide-images/blob/master/ck-compatible.svg)](https://github.com/ctuning/ck)
 
 These are various public data sets for public bechmarks and kernels used
